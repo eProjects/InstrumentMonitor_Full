@@ -1,0 +1,4 @@
+C:\Users\eclumson\documents\visual studio 2010\Projects\InstrumentMonitor\PriceEngine\bin\Debug\PriceEngine.dll
+C:\Users\eclumson\documents\visual studio 2010\Projects\InstrumentMonitor\PriceEngine\bin\Debug\PriceEngine.pdb
+C:\Users\eclumson\documents\visual studio 2010\Projects\InstrumentMonitor\PriceEngine\obj\Debug\PriceEngine.dll
+C:\Users\eclumson\documents\visual studio 2010\Projects\InstrumentMonitor\PriceEngine\obj\Debug\PriceEngine.pdb
